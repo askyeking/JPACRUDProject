@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+	background-image: url('../images/background.png');
+	background-size: cover;
+	background-repeat: none;
+}
+
+
+img {
+	width: 23em;
+	height: 29em;
+}
